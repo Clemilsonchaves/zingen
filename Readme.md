@@ -1,4 +1,4 @@
-<h1  align="center"> Lading Page do Aplicativo de Música de Karaokê</h1>
+<h1  align="center"> Landing Page do Aplicativo de Música de Karaokê</h1>
 
 <img src="assets/Cover.png"> 
 
